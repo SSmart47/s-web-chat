@@ -1,0 +1,29 @@
+.css-main-logo {
+	color: gray;
+	font-weight: 900;
+	font-size: 30px;
+}
+
+.css-textarea {
+  resize: none;
+  height: 50px;
+  width: 450px;
+  background-color: rgba(255, 255, 255, 0);
+  outline: none;
+  color: white;
+  border-radius: 10px;
+  border-width: 2px;
+}
+
+.css-text-left {
+  margin-top: 10px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.css-text-right {
+  margin-top: 10px;
+  color: white;
+  background-color: rgba(0, 0, 255, 0.2);
+}
+
